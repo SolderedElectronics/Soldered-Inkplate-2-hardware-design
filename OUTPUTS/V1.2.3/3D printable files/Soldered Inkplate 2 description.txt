@@ -1,0 +1,10 @@
+Bambu slicer settings (JSON format)
+
+{
+    "enable_overhang_speed": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "name": "0.20mm Soldered Inkplate 2",
+    "print_settings_id": "0.20mm Soldered Inkplate 2",
+    "version": "1.5.0.19"
+}
