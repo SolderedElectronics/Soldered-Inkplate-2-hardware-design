@@ -6,7 +6,9 @@
 | :----------------------------------------------------------: |
 |      [Buy Inkplate 2](https://www.solde.red/333166)      |
 
------- product description ------
+The Inkplate 2 is an Arduino-compatible board that features a 2.13" three-color e-paper display. It is a plug-and-play device, programmable via USB port, and controlled by an ESP32 microcontroller. Moreover, it connects to the internet via WiFi or Bluetooth. Since it uses only 8uA in low-power mode, it can last for months on a single Li-ion battery charge. It's simple enough to be used by beginners, but it also offers plenty of features and a user-friendly platform for advanced users. Inkplate 2 has it all, packed on a small-factor board.
+
+If you're like us, when you first saw an e-book reader, you thought "If only I could use a screen like this in my project". Thanks to the exceptional sharpness and contrast, the ability to display in sunlight and truly unprecedented efficiency in terms of energy (it consumes energy only when changing the content on the screen), electronic paper is the ideal choice for many applications. Inkplate 2, continuing the tradition of the now well-known Inkplate series, offers a variation of e-paper accessible to hobbyists and everyone else in a way that we have created a plug-and-play hardware that is really easy to use, and is compatible with Arduino and micropython.
 
 ## Repository contents
 
