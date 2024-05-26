@@ -1,5 +1,5 @@
-SKU: 333166, 333167
-Full product name: Inkplate 2
+SKU: 333166, 333167, 333227, 333228
+Full product name: Soldered Inkplate 2
 Country of origin: Croatia
 HS tariff code: 8531204090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388678105, 732388678006, 732388677900, 732388677801
